@@ -13,6 +13,8 @@ Principle of opertion:
 3. The PHP file responds and sends the name of the pupil to the ESP for confirmation or a message saying "unknown"
 4. The PHP file also records the tap in a MYSQL database.
 
+I have included the php file and it needs a config.php file to work. This config.php file contains the MYSQL database details, which of course, I would prefer to keep secret.
+
 A 3d printed box is available via OnShape at https://cad.onshape.com/documents/60977efe1a047750668d3222/w/153b82bc0decbbb8fbda3180/e/c881baae505830e882e0e457
 
 
